@@ -1,6 +1,6 @@
 # Relational Migrator
 
-[![Sample](https://img.youtube.com/vi/szUhf5Wug54/0.jpg)](https://www.youtube.com/watch?v=szUhf5Wug54)
+][![Sample](https://img.youtube.com/vi/nvKm4PCEmC0/0.jpg)](https://www.youtube.com/watch?v=nvKm4PCEmC0)
 
 
 ## Overview
