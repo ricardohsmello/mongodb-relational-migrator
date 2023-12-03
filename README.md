@@ -106,9 +106,4 @@ This repository contains the Relational Migrator, a tool designed for performing
     ```
 
     The result should be `logical`.
-## Running the Job Sync
 
-To run the data synchronization job, use the following command:
-
-```bash
-docker-compose exec migrator npm run job-sync
